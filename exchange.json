@@ -1,0 +1,10 @@
+{
+  "main": "demo.raml",
+  "name": "demo",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "demo",
+  "version": "1.0.0"
+}
